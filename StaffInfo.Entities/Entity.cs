@@ -14,6 +14,6 @@ namespace StaffInfo.Entities
         /// <summary>
         /// Id
         /// </summary>
-        public long Id { get; set; }
+        public long? Id { get; set; }
     }
 }

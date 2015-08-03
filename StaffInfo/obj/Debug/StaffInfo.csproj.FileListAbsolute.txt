@@ -11,3 +11,6 @@ c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo
 c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.csproj.GenerateResource.Cache
 c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.exe
 c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.pdb
+F:\Projects\StaffInfo\StaffInfo\bin\Debug\StaffInfo.exe.config
+F:\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.exe
+F:\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.pdb
