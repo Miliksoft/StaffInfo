@@ -1,0 +1,13 @@
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\bin\Debug\StaffInfo.exe.config
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\bin\Debug\StaffInfo.exe
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\bin\Debug\StaffInfo.pdb
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.csprojResolveAssemblyReference.cache
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\MainWindow.baml
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\MainWindow.g.cs
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\App.g.cs
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo_MarkupCompile.cache
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.g.resources
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.Properties.Resources.resources
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.csproj.GenerateResource.Cache
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.exe
+c:\users\chris\onedrive\документы\visual studio 2013\Projects\StaffInfo\StaffInfo\obj\Debug\StaffInfo.pdb
