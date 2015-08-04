@@ -96,16 +96,3 @@ namespace StaffInfo.Entities
         #endregion
     }
 }
-/*
- * Нарушение                - violation
- * Больничный               - hospital
- * Выговор                  - reprimand
- * Благодарность            - gratitude
- * Отпуск                   - holiday
- * Выслуга лет              - expirience
- * Дополнительное замечание - remark
- * Должность                - post
- * Звание                   - rank
- * Служба                   - service/duty
- * МЧС                      - ministry of emergency sutuations
-*/
